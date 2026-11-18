@@ -1,6 +1,7 @@
 title: "HIST 7370"
 description: "Readings and Methods in Digital History"
-url: "https://clnugentmclean.github.io/hist7370"
+url: "https://clnugentmclean.github.io"
+baseurl: "/hist7370"
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "air"
 
