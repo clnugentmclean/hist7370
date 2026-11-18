@@ -2,18 +2,23 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Research"
+  - title: "Student Hub"
     children:
-      - title: "Dissertation"
-        url: https://clnugentmclean.github.io/dissertation/
-        target: _blank
-      - title: "Exams"
-        url: /research/exams/
-      - title: "Projects"
-        url: /research/projects/
+      - title: "Name01"
+        url: /name01/
+      - title: "Name02"
+        url: /name02/
+      - title: "Name03"
+        url: /name03/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Schedule"
+    url: /schedule/
+    
+  - title: "Policies"
+    url: /policies/
+  
+  - title: "Assignments"
+    url: /assignments/
   
 
     
