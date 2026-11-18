@@ -5,11 +5,8 @@ main:
   - title: "Schedule"
     url: /schedule/
     
-  - title: "Policies"
+  - title: "Policies & Assignments"
     url: /policies/
-  
-  - title: "Assignments"
-    url: /assignments/
   
   - title: "Students"
     children:
