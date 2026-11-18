@@ -11,17 +11,17 @@ main:
   - title: "Students"
     children:
       - title: "Name01"
-        url: /name01/
+        url: /students/name01/
       - title: "Name02"
-        url: /name02/
+        url: /students/name02/
       - title: "Name03"
-        url: /name03/
+        url: /students/name03/
       - title: "Name04"
-        url: /name04/
+        url: /students/name04/
       - title: "Name05"
-        url: /name05/
+        url: /students/name05/
       - title: "Name06"
-        url: /name06/
+        url: /students/name06/
 
     
 
