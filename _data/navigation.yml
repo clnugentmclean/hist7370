@@ -16,6 +16,12 @@ main:
         url: /name02/
       - title: "Name03"
         url: /name03/
+      - title: "Name04"
+        url: /name04/
+      - title: "Name05"
+        url: /name05/
+      - title: "Name06"
+        url: /name06/
 
     
 
