@@ -1,7 +1,7 @@
 ---
-title: "Exams"
+title: "Name05"
 layout: single
-permalink: /research/exams/
+permalink: /students/name05/
 ---
 # Comprehensive Exams 2022
 
