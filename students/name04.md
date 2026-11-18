@@ -1,7 +1,7 @@
 ---
-title: "Global Islam"
+title: "Name04"
 layout: single
-permalink: /research/exams/global-islam/
+permalink: /students/name04/
 ---
 
 #### All summaries written for personal use
