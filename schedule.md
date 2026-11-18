@@ -1,6 +1,6 @@
 ---
-title: "CV"
+title: "Schedule"
 layout: single
-permalink: /CV/
+permalink: /schedule/
 ---
 This Info about CV 
