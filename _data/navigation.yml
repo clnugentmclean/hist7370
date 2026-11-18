@@ -2,7 +2,13 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Student Hub"
+  - title: "Schedule"
+    url: /schedule/
+    
+  - title: "Policies & Assignments"
+    url: /policies/
+  
+  - title: "Students"
     children:
       - title: "Name01"
         url: /name01/
@@ -10,16 +16,12 @@ main:
         url: /name02/
       - title: "Name03"
         url: /name03/
-
-  - title: "Schedule"
-    url: /schedule/
-    
-  - title: "Policies"
-    url: /policies/
-  
-  - title: "Assignments"
-    url: /assignments/
-  
+      - title: "Name04"
+        url: /name04/
+      - title: "Name05"
+        url: /name05/
+      - title: "Name06"
+        url: /name06/
 
     
 
