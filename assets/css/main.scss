@@ -1,7 +1,5 @@
 ---
 ---
-$link-color: #5A1846; 
-$link-color-hover: #5A1846; 
 
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap");
 
@@ -22,9 +20,6 @@ body {
   font-family: $sans-serif;
 }
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
-
 .dropdown {
   position: relative;
 }
@@ -33,8 +28,8 @@ body {
   position: absolute;
   top: 100%;
   left: 0;
-  background: #ACBF69 !important; 
-  border: 1px solid #ddd;
+  background: $background-color; /* theme default */
+  border: 1px solid $border-color; /* theme default */
   list-style: none;
   padding: 0.5em 0;
   margin: 0;
@@ -61,27 +56,19 @@ body {
   left: 0;
   width: 100%;
   z-index: 9999;
-  background-color: #ACBF69; /* match your site's actual masthead color */
+  background-color: $background-color; /* theme default, keeps content from showing through */
 }
 
 .initial-content,
 .page {
-  padding-top: 80px; /* was 90px, now matches actual header height */
+  padding-top: 80px;
 }
 
 :target {
-  scroll-margin-top: 90px; /* 80px header + ~10px breathing room */
-}
-
-.masthead,
-.masthead__inner-wrap,
-.masthead__menu,
-#site-nav {
-  background-color: #ACBF69 !important;
+  scroll-margin-top: 90px;
 }
 
 .masthead .site-title {
-  color: #3A434A !important;
   font-family: $sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -89,7 +76,6 @@ body {
 }
 
 .masthead__menu-item a {
-  color: #3A434A !important;
   font-family: $sans-serif;
   font-weight: 500;
   text-transform: uppercase;
@@ -97,26 +83,16 @@ body {
   font-size: 1.0em;
 }
 
-.masthead .site-title:hover,
-.masthead__menu-item a:hover {
-  color: #3A434A !important; /* slightly brighter on hover for feedback */
-}
-
-.greedy-nav .visible-links a::before {
-  background: #5A1846 !important; /* or whatever accent you want here */
-}
-
 .oval-portrait {
   float: right;
   width: 280px;
   height: 360px;
-  object-fit: cover; /* crops the photo to fill the oval without distorting it */
-  border-radius: 50%; /* unequal width/height + 50% radius = oval, not circle */
+  object-fit: cover;
+  border-radius: 50%;
   margin: 0 0 1.5em 2em;
-  shape-outside: ellipse(50% 50%); /* text wraps the curve, not the box */
+  shape-outside: ellipse(50% 50%);
 }
 
-/* stop the next heading/section from being squeezed if the image is taller than the text */
 .oval-portrait-clear {
   clear: both;
 }
@@ -125,7 +101,7 @@ body {
   display: flex;
   gap: 1.5em;
   margin: 2em 0;
-  flex-wrap: wrap; /* lets images stack on narrow/mobile screens instead of squishing */
+  flex-wrap: wrap;
 }
 
 .image-row figure {
@@ -142,22 +118,4 @@ body {
 .image-row figcaption {
   margin-top: 0.5em;
   font-size: 0.85em;
-  color: #6d4c34; /* swap to match your palette */
-}
-
-blockquote {
-  border-left: 4px solid #5A1846 !important; /* match your plum accent */
-}
-
-.page__footer {
-  background-color: #5A1846; /* or whatever color you want */
-}
-
-.page__footer,
-.page__footer a {
-  color: #ffffff !important; /* soft white text, matches masthead */
-}
-
-.page__footer a:hover {
-  color: #ffffff !important;
 }
