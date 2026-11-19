@@ -12,8 +12,8 @@ permalink: /policies/
 **Professionalization (10%):** As part of your participation in this class, I would like you to get to know the wider digital humanities community at Northeastern. Please attend at least two digital humanities events on campus (talks, brown bag lunches, workshops, etc.) and write a 500-word reaction on your area of the course website. I will be alerting you to upcoming events during class meetings and over email.
 
 **Discussion Leader (20%):** Each week, one or students will act as the “discussion leader.” You have two responsibilities in that capacity:
-•	Give a short (five to seven minute) presentation on at least one supplemental reading or digital history project related to that week’s theme, explaining its significance and how it relates to the topic and other readings for that week. These presentations will help expose the entire class to a wider look at the field. Please consult with me over the preceding week to get ideas for readings/projects.
-•	Kick off discussion for that week. 
+* Give a short (five to seven minute) presentation on at least one supplemental reading or digital history project related to that week’s theme, explaining its significance and how it relates to the topic and other readings for that week. These presentations will help expose the entire class to a wider look at the field. Please consult with me over the preceding week to get ideas for readings/projects.
+* Kick off discussion for that week. 
 
 If multiple people are interested in the same topic, you are welcome to pair up as discussion leaders. In those weeks, the two of you will work together to coordinate the presentations and lead discussion jointly. 
 
@@ -25,21 +25,21 @@ There are multiple ways to stay up to date and informed about ongoing debates an
 # Policies
 
 #### Reasonable Accommodation:
-Students with documented learning disabilities will receive reasonable accommodation in this class, in accordance with Northeastern University policy (https://www.northeastern.edu/policies/pdfs/Policy_on_Reasonable_Accommodation.pdf). If you have a learning disability, please see me so that we can work out the details. To contact and register with Northeastern’s Disability Resource Center, go to 20 Dodge Hall or http://www.northeastern.edu/drc/, or call 617-373-4428.
+Students with documented learning disabilities will receive reasonable accommodation in this class, in accordance with [Northeastern University policy](https://www.northeastern.edu/policies/pdfs/Policy_on_Reasonable_Accommodation.pdf). If you have a learning disability, please see me so that we can work out the details. To contact and register with [Northeastern’s Disability Resource Center](http://www.northeastern.edu/drc/), go to 20 Dodge Hall or call 617-373-4428.
 
 #### Academic and Personal Integrity:
 No cheating.  No copying other people’s work.  No plagiarism.  No lying about late assignments: For all written and oral assignments, you are expected to properly cite the source of ideas or information you use that are not your own. This includes material used from printed sources and from web sites. Cheating or plagiarism of any kind will result in an automatic F for the course. Students who cheat will immediately be referred to the Office of Student Conduct and Conflict Resolution and will receive the maximum university discipline possible.
 
-To ensure you understand Northeastern’s policy on Academic Integrity, visit http://www.northeastern.edu/osccr/academicintegrity/index.html.
+[Northeastern’s policy on Academic Integrity](http://www.northeastern.edu/osccr/academicintegrity/index.html).
 
 #### Title IX
-Northeastern’s Title IX Policy prohibits discrimination based on gender, which includes sexual harassment, sexual assault, relationship or domestic violence, and stalking (for more information, see the website for the Office for University Equity and Compliance at https://www.northeastern.edu/ouec/) . The Title IX Policy applies to the entire community, including male, female, transgender students, and faculty and staff. If you or someone you know has been harassed or assaulted, confidential support and guidance can be found through University Health and Counseling Services staff (http://www.northeastern.edu/uhcs/) and the Center for Spiritual Dialogue and Service clergy members (http://www.northeastern.edu/spirituallife/). By law, those employees are not required to report allegations of sex or gender-based discrimination to the University. Alleged violations can be reported non-confidentially to the Title IX Coordinator within The Office for Gender Equity and Compliance at: titleix@northeastern.edu and/or through NUPD (Emergency 617.373.3333; Non-Emergency 617.373.2121). Reporting Prohibited Offenses to NUPD does NOT commit the victim/affected party to future legal action.
+Northeastern’s Title IX Policy prohibits discrimination based on gender, which includes sexual harassment, sexual assault, relationship or domestic violence, and stalking (for more information, see the website for the [Office for University Equity and Compliance](https://www.northeastern.edu/ouec/)) . The Title IX Policy applies to the entire community, including male, female, transgender students, and faculty and staff. If you or someone you know has been harassed or assaulted, confidential support and guidance can be found through [University Health and Counseling Services](http://www.northeastern.edu/uhcs/) and the [Center for Spiritual Dialogue and Service](http://www.northeastern.edu/spirituallife/). By law, those employees are not required to report allegations of sex or gender-based discrimination to the University. Alleged violations can be reported non-confidentially to the Title IX Coordinator within The Office for Gender Equity and Compliance at: titleix@northeastern.edu and/or through NUPD (Emergency 617.373.3333; Non-Emergency 617.373.2121). Reporting Prohibited Offenses to NUPD does NOT commit the victim/affected party to future legal action.
 
 #### WeCare 
-WeCare offers supports for students during times of difficulty or challenge.  You can find WeCare at 226 Curry Student center Monday - Friday from 8:30-5:00, call at 617-373-7591, or email wecare@northeastern.edu.
+[WeCare](https://we-care.studentlife.northeastern.edu/) offers supports for students during times of difficulty or challenge.  You can find WeCare at 226 Curry Student center Monday - Friday from 8:30-5:00.
 
 #### Mental Health Resources 
-In addition to mental health resources available through Northeastern’s University Health and Counseling Services Northeastern has added Find@Northeastern, which is a 24/7 mental health consulting line and can be reached at 1-877-223-9477.
+In addition to mental health resources available through [Northeastern’s University Health and Counseling Services](https://www.northeastern.edu/uhcs/counseling-services/) Northeastern has added Find@Northeastern, which is a 24/7 mental health consulting line and can be reached at 1-877-223-9477.
 
 
 #### Late Work
