@@ -22,6 +22,12 @@ main:
         url: /students/name05/
       - title: "Name06"
         url: /students/name06/
+      - title: "Name07"
+        url: /students/name07/
+      - title: "Name08"
+        url: /students/name08/
+      - title: "Name09"
+        url: /students/name09/
 
     
 
