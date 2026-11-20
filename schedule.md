@@ -116,8 +116,8 @@ Readings:
 * Michelle Lee Brown, Hēmi Whaanga, and Jason Edward Lewis, [“Relation-Oriented AI: Why Indigenous Protocols Matter for the Digital Humanities”](https://dhdebates.gc.cuny.edu/read/debates-in-the-digital-humanities-2023/section/98dc1c8f-8583-4428-ac84-17ff072bdcad#ch04) *Debates in Digital Humanities 2023*
 * Jessica Marie Johnson. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads Available to Purchase” *Social Text* (2018) 36 (4 (137)): 57–79. (Available through Northeastern Library)	
 
-Week Fifteen: April 22 Presentations and Wrap-Up
+## Week Fifteen: April 22 Presentations and Wrap-Up
 	
 
-FINAL PROJECT DUE DURING EXAM PERIOD
+### FINAL PROJECT DUE DURING EXAM PERIOD
 
