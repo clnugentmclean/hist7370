@@ -3,7 +3,7 @@ title: "HIST 7370: Readings and Methods in Digital History"
 layout: single
 permalink: /
 ---
-<small>Dr. Colleen Nugent McLean
+<small>[Dr. Colleen Nugent McLean](https://clnugentmclean.github.io/)
 <br>Northeastern University, Spring 2027</small>
 
 ## Course Description
